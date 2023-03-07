@@ -1,2 +1,2 @@
-# NAME: Suphakorn K
+# NAME: Suphakorn Komod
 # STUDENT ID: 0992971177
