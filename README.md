@@ -1,2 +1,2 @@
-# NAME: Supha
+# NAME: Suphakorn
 # STUDENT ID: 0992971177
